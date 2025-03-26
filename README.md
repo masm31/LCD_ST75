@@ -1,1 +1,1 @@
-run ST17561 lcd driver
+run ST75161 lcd driver
